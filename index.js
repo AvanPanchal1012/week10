@@ -17,7 +17,7 @@ app.set("views", path.join(__dirname, "views"));
 const config = {
   user: "azureuser",
   password: "Ap@10122826",
-  server: "activity2.database.windows.net",
+  server: "activit2.database.windows.net",
   database: "activity2",
   options: {
     encrypt: true,
